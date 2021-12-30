@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "serialport": "^9.2.8",
+    "socket.io": "^4.4.0"
+  }
+}
